@@ -29,7 +29,8 @@ This project is a front-end clone of Instagram. It replicates the visual design 
 
 ## Screenshot
 
-![Screenshot](https://drive.google.com/file/d/17Wt-Kiy701DknSdAUwNC0yEII5RWQoGQ/view?usp=sharing)
+![ScreenShot](https://github.com/SubhammMoharana/Instagram-Clone/assets/121431904/dc6a0166-0006-4802-8f1e-927a6715917c)
+
 
 
 ## FAQ
