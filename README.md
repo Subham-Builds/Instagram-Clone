@@ -2,7 +2,7 @@
 # Hi, Subham This Side! 👋
 
 
-# Instagram Clone (Front End)
+# Instagram Clone
 
 This project is a front-end clone of Instagram. It replicates the visual design and user interface of the Instagram platform. Note that this clone is focused solely on the front-end aspects and does not include any backend functionality or database integration. Additionally, the layout and components are designed to look similar to Instagram but are not responsive, meaning they may not display correctly on different screen sizes or devices.
 
