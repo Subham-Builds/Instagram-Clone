@@ -35,7 +35,7 @@ This project is a front-end clone of Instagram. It replicates the visual design 
 
 ## FAQ
 
-#### Does it is fully responsive?
+#### Is it fully responsive?
 
 It is a entry level basic project to start with HTML & CSS.
 
